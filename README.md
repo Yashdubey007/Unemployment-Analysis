@@ -1,4 +1,3 @@
-# oibsip_taskno-2
 UNEMPLOYMENT ANALYSIS WITH PYTHON
 Unemployment Prediction. An unemployment prediction project is a machine learning project that involves building a model to predict the unemployment rate for a given time period. The goal of this project is to use historical data on economic indicators, such as GDP, inflation, and job growth, to forecast the unemployment rate for future periods. To build an unemployment prediction model, a large historical dataset is typically required.
 
